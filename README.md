@@ -17,4 +17,3 @@ Leverage heatmaps and point maps to track sales performance across different geo
 Use line charts to analyze seasonal trends in sales and profitability over time.
 
 Segment products into categories and visualize sales performance to identify strong and weak areas.
-hiiwefbhiob
